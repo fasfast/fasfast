@@ -1,4 +1,7 @@
 <div align="center">
+<img src="https://raw.githubusercontent.com/fasfast/fasfast/output/snake.svg" alt="Snake animation" />
+</div>
+<div align="center">
 
 # Hi, I'm Adli 👋
 
