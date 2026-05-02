@@ -8,7 +8,7 @@
 
 *Banjarbaru, Indonesia · UNIDA*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fas-fast-b850253b5/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adli-fidiansyah/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/fasfast)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://adlifidiansyah.vercel.app)
 [![Email](https://img.shields.io/badge/Email-6D4AFF?style=flat&logo=protonmail&logoColor=white)](mailto:fasfast40@proton.me)
