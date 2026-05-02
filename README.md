@@ -1,16 +1,50 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**fasfast/fasfast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Adli 👋
 
-Here are some ideas to get you started:
+**Data Science & Machine Learning Enthusiast**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Banjarbaru, Indonesia · UNIDA*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fas-fast-b850253b5/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/fasfast)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://adlifidiansyah.vercel.app)
+[![Email](https://img.shields.io/badge/Email-6D4AFF?style=flat&logo=protonmail&logoColor=white)](mailto:fasfast40@proton.me)
+
+</div>
+
+---
+
+### 🧠 About Me
+
+- 🎓 Computer Science student at **UNIDA**
+- 📍 Based in **Banjarbaru, Indonesia**
+- 🌱 Currently learning **Machine Learning & Data Science**
+- 🎯 Building my portfolio on **Kaggle**
+- 💬 Ask me about **Python, pandas, sklearn**
+
+---
+
+### 🚀 Projects
+
+| Project | Description | Tech | Result |
+|---------|-------------|------|--------|
+| [🚢 Titanic Survival Prediction](https://www.kaggle.com/code/fasfast/notebook4b09d07aa7) | Predicted passenger survival using ML | Python, Random Forest | 68.1% accuracy |
+| [🏠 House Prices Prediction](https://www.kaggle.com/fasfast) | Predicted house sale prices from 81 features | Python, Regression | $17,831 avg error |
+
+---
+
+### 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
+
+---
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=fasfast&show_icons=true&theme=dark&hide_border=true&bg_color=080c10&title_color=00e5a0&icon_color=00e5a0&text_color=e8f0fe" />
+</div>
