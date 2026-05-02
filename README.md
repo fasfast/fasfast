@@ -1,6 +1,7 @@
 <a href="https://adlifidiansyah.vercel.app" target="_blank">
   <img src="https://raw.githubusercontent.com/fasfast/fasfast/output/snake.svg" alt="Snake animation" />
 </a>
+<div align="center">
 # Hi, I'm Adli 👋
 
 **Data Science & Machine Learning Enthusiast**
