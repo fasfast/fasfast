@@ -19,7 +19,7 @@
 
 ### 🧠 About Me
 
-- 🎓 Computer Science student at **UNIDA**
+- 🎓 Agroindustrial Tech student at **UNIDA**
 - 📍 Based in **Banjarbaru, Indonesia**
 - 🌱 Currently learning **Machine Learning & Data Science**
 - 🎯 Building my portfolio on **Kaggle**
@@ -31,8 +31,6 @@
 
 | Project | Description | Tech | Result |
 |---------|-------------|------|--------|
-| [🚢 Titanic Survival Prediction](https://www.kaggle.com/code/fasfast/notebook4b09d07aa7) | Predicted passenger survival using ML | Python, Random Forest | 68.1% accuracy |
-| [🏠 House Prices Prediction](https://www.kaggle.com/fasfast) | Predicted house sale prices from 81 features | Python, Regression | $17,831 avg error |
 
 ---
 
